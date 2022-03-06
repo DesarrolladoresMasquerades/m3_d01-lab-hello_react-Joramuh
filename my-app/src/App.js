@@ -9,11 +9,11 @@ function App() {
     <div className="App">
       <div className="dark-bg">
         <Navbar />
-      <div className="headline"> 
-        <Headline />
+        <div className="headline">
+          <Headline />
         </div>
       </div>
-      <div className="gallery-flex">
+      <div >
         <Gallery />
       </div>
     </div>

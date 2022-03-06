@@ -5,7 +5,7 @@ import Icon4 from "./Icon4";
 
 function Gallery() {
   return (
-    <div>
+    <div className="gallery-flex">
       <Icon1 />
       <Icon2 />
       <Icon3 />

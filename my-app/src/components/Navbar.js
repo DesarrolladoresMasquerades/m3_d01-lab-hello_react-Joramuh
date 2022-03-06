@@ -5,9 +5,8 @@ function Navbar() {
   return (
     <div className="Navbar">
       <Logo />
-      
-      <MenuTop />
 
+      <MenuTop />
     </div>
   );
 }
